@@ -15,17 +15,3 @@ This repository contains a collection of screenshots from a Power BI dashboard p
 ## 📝 About
 
 These screenshots capture the key visuals from a Power BI reporting solution aimed at providing interactive and insightful analytics for decision-makers and analysts.
-
----
-
-## 📌 Usage
-
-Feel free to reference these images for:
-
-- Portfolio or case study documentation
-- Dashboard design inspiration
-- Presentation materials
-- Internal analytics team references
-
-## 📦 Repository Structure
-
