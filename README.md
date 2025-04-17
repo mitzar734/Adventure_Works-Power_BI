@@ -1,6 +1,6 @@
-# 📊 Power BI Dashboard Screenshots
+# 📊 Adventure Works Power BI Dashboard Screenshots
 
-This repository contains a collection of screenshots from a Power BI dashboard project, showcasing key views and insights designed for executive reporting, geographic analysis, and detailed product/customer performance breakdowns.
+This repository contains a collection of screenshots from a Power BI dashboard project for **Adventure Works**, showcasing key views and insights designed for executive reporting, geographic analysis, and detailed product/customer performance breakdowns.
 
 ## 📁 Contents
 
@@ -14,4 +14,4 @@ This repository contains a collection of screenshots from a Power BI dashboard p
 
 ## 📝 About
 
-These screenshots capture the key visuals from a Power BI reporting solution aimed at providing interactive and insightful analytics for decision-makers and analysts.
+These screenshots capture the key visuals from an **Adventure Works Power BI reporting solution**, aimed at providing interactive and insightful analytics for decision-makers and analysts.
